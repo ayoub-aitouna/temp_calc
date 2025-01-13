@@ -1,0 +1,1 @@
+ /home/aaitouna/StudioProjects/notpad/.dart_tool/flutter_build/00c5898cc620f17c283c1c6d5f18204e/native_assets.yaml: 

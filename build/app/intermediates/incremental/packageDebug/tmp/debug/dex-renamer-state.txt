@@ -1,0 +1,16 @@
+#Sun Jan 12 19:59:30 EST 2025
+base.0=/home/aaitouna/StudioProjects/notpad/build/app/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/home/aaitouna/StudioProjects/notpad/build/app/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.2=/home/aaitouna/StudioProjects/notpad/build/app/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
+base.3=/home/aaitouna/StudioProjects/notpad/build/app/intermediates/dex/debug/mergeProjectDexDebug/4/classes.dex
+base.4=/home/aaitouna/StudioProjects/notpad/build/app/intermediates/dex/debug/mergeLibDexDebug/0/classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=1/classes.dex
+path.3=4/classes.dex
+path.4=0/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex
+renamed.4=classes5.dex
